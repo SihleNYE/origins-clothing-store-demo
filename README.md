@@ -8,6 +8,7 @@ A polished, static ecommerce clothing-store demo for ORIGINS.
 - Demo checkout and customer account
 - Product reviews saved locally in the browser
 - Size guide plus per-size stock availability
+- One-tap WhatsApp support on every storefront page
 
 ## Run locally
 Open `index.html` in a browser, or serve this folder with any static web server.
